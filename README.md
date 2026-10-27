@@ -35,6 +35,6 @@ contributions are attributed to teammates who have not made them.
 - Repository and initial project description prepared.
 - Team discussion requested in Canvas G8.
 - Keren approved the proposal and received a Write-access invitation on October 27.
-- Awaiting Keren's invitation acceptance and Morgan's agreement and GitHub username.
+- Awaiting Morgan's agreement and GitHub username.
 - Individual implementation responsibilities will be agreed by the team; each
   member must write a complete class as required by the project instructions.
