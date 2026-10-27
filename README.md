@@ -22,17 +22,19 @@ and screenshots.
 ## Team
 
 - Isaac Apgar (GitHub: [isaacapgar](https://github.com/isaacapgar))
-- Keren Binderman (GitHub username pending)
+- Keren Binderman (GitHub: [kbinderman123](https://github.com/kbinderman123))
 - Morgan Smith (GitHub username pending)
 
 This repository and proposal were prepared by Isaac with assistance from OpenAI
-Codex. The topic and class responsibilities are pending team agreement. No code
+Codex. Keren approved the initial topic on October 27, 2026. Morgan's agreement
+and the team's class responsibilities are still pending. No code
 contributions are attributed to teammates who have not made them.
 
 ## Phase 1 status
 
 - Repository and initial project description prepared.
 - Team discussion requested in Canvas G8.
-- Awaiting topic agreement and teammates' GitHub usernames before invitations.
+- Keren approved the proposal and received a Write-access invitation on October 27.
+- Awaiting Keren's invitation acceptance and Morgan's agreement and GitHub username.
 - Individual implementation responsibilities will be agreed by the team; each
   member must write a complete class as required by the project instructions.
